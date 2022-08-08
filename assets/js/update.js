@@ -74,7 +74,7 @@ $(document).ready(function() {
       function(response) {
         const data = JSON.parse(response);
         const latestVersion = data.tag_name;
-        infoNotification('<a href="https://github.com/SanjaySunil/BetterDiscordPanel" target="blank" class="welcome-tag">Welcome to BetterDiscordPanel v' + version + '! <iframe src="https://ghbtns.com/github-btn.html?user=SanjaySunil&repo=BetterDiscordPanel&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></a>');
+        infoNotification('<a href="https://github.com/itsmoe15/Discord-SledgeHammer-Portal" target="blank" class="welcome-tag">Welcome to DiscordSledgeHammer v' + version + '! <iframe src="https://ghbtns.com/github-btn.html?user=SanjaySunil&repo=BetterDiscordPanel&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe></a>');
         betterDiscordConsole(`BetterDiscordPanel v${version}`, 'lightblue');
         betterDiscordConsole(`Latest Version: v${latestVersion}`, 'lightblue');
         console.log(versionCompare(version, latestVersion));
