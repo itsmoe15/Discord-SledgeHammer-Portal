@@ -1,0 +1,42 @@
+{
+    "welcome": "Hello,",
+    "select_option": "Select the option you would like to perform.",
+
+    "start_app": "Discord SledgeHammer Portal",
+    "start_desktop": "DESKTOP APP - Discord SledgeHammer Portal",
+
+    "support": "Support",
+    "settings": "Settings",
+    "update": "Check for Updates",
+    "language": "Language",
+    "go_back": "Go Back",
+    "done": "Done!",
+    "exit": "Exit",
+
+    "discordserver": "Discord Server",
+    "submit_issue": "Submit an Issue/Bug Report/Suggestion",
+
+    "betterdiscordpanel_help":"Start Discord SledgeHammer Portal in your default browser.",
+    "desktop_panel_help": "Start the Desktop app of Discord SledgeHammer Portal.",
+    "settings_help": "Open the Settings for Discord SledgeHammer Portal.",
+    "exit_help": "Exit this script.",
+    "support_help": "Get Support for Discord SledgeHammer Portal.",
+    "update_help": "Update Discord SledgeHammer Portal to the latest available version.",
+    "language_help": "Choose a Language for Discord SledgeHammer Portal",
+    "go_back_help": "Go back to the selection panel.",
+    "discord_help": "Open the Discord support server link on your default browser.",
+    "issue_help": "Submit a Issue/Bug Report/Suggestion through GitHub.",
+    "get_help": "Get Help/Support for Discord SledgeHammer Portal:",
+
+    "check_installation": "Check if you have installed Discord SledgeHammer Portal correctly.",
+    "checking_failure": "System check failed.",
+    "checking_system": "Checking Discord SledgeHammer Portal system ...",
+    "check_success": "System check successful.",
+    "updating": "Updating Discord SledgeHammer Portal ...",
+    "updating_failure": "Unable to update Discord SledgeHammer Portal, error while updating Discord SledgeHammer Portal.",
+    "check_index": "Check if index.html exists.",
+    "check_main": "Check if main.js exists.",
+    "check_repo_download_method": "Clone the Repository and try again.",
+    "booting": "Booting up Discord SledgeHammer Portal ..."
+}
+
